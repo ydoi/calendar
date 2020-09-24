@@ -1,0 +1,12 @@
+.Week-table table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.Week-table th {
+  border: 1px solid black;
+}
+
+.Week-table td {
+  border: 1px solid black;
+}
